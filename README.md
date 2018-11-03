@@ -1,1 +1,1 @@
-This is a project from DataCamp using tidyverse packages to explore level difficulty in Candy Crush Saga.
+This is a project from DataCamp using tidyverse packages to explore level difficulty in Candy Crush Saga. View the Jupyter notebook [here](https://nbviewer.jupyter.org/github/aloosefish/Candy_Crush_Level_Difficulty/blob/master/notebook.ipynb).
